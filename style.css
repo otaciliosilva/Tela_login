@@ -13,7 +13,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Source Sans Pro';
-    background-image: url(/assets/fundo.jpg);
+    background-image: url('/assets/fundo.jpg');
 }
 
 .container{
@@ -108,8 +108,6 @@ form {
     font-size: 14px;
     font-weight: 700;
     color: #ffffff;
-
-    display: inline-block;
 
     font-size: 14px;
     font-weight: 700;
